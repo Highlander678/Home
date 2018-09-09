@@ -115,10 +115,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="constructor_overload.cpp" />
     <ClCompile Include="Func_template.cpp" />
+    <ClCompile Include="Peregruzka_Prisvaivaniya.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Source1.cpp" />
     <ClCompile Include="Operator.cpp" />
+    <ClCompile Include="Obj.cpp" />
     <ClCompile Include="Task.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
